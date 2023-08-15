@@ -6,13 +6,7 @@ Full Stack Web Developer | Life-long Learner
 
 HTML | CSS | Javascript | React | SCSS | Bootstrap | Tailwind | Node | Express | Postgresql | Mongodb
 
-* 🌍  I'm based in Seattle
-* 🖥️  See my portfolio at [tleonarddev.netlify.app](http://https://tleonarddev.netlify.app/)
-* ✉️  You can contact me at [haydentmusic@gmail.com](mailto:haydentmusic@gmail.com)
-* My [LinkedIn](https://www.linkedin.com/in/thomas-leonard-6b63a326b/)
+* 🌍  I'm based in Seattle
+* 🖥️  See my portfolio at [tleonarddev.netlify.app](http://https://tleonarddev.netlify.app/)
+* ✉️  You can contact me at [haydentmusic@gmail.com](mailto:haydentmusic@gmail.com)
 
-### Skills
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
